@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Restaurant Landing Page
+### [Live Site](https://timex-restaurant.netlify.app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Restaurant Landing Page](https://i.ibb.co/5jxBKpw/image.png)
 
 ## Available Scripts
 
